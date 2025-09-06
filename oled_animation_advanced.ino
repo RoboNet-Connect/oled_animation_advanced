@@ -1,13 +1,3 @@
-
-/*
- * OLED Animation Advanced Example (24FPS)
- * Tạo bởi OLED Frame Generator
- * @khoi2mai
- * 
- * Số lượng frame: 772
- * Kích thước: 128x64 pixels
- */
-
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
